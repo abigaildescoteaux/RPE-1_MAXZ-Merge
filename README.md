@@ -1,2 +1,2 @@
 # MAXZ-Merge
-Generate Maximum Intensity Z-Projections and Merge Channels
+Use MAX-Z.ijm to batch process a folder of raw images to generate Maximum Intensity Z-Projections. Then, use Merge.ijm to generate composite images from the maximum intensity projections generated in step 1. 
